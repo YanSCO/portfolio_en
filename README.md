@@ -55,3 +55,6 @@ The analysis examines **client volume, seasonal trends, revenue, expenses, profi
 An English-to-Portuguese translation project involving a financial document related to cryptocurrency.
 
 **Tools:** Matecat
+
+Link to my website containing extra information: https://sites.google.com/view/en-yan-s-c-oliveira/home-page
+LinkedIn: https://www.linkedin.com/in/yan-cavalcante-9333211bb/
